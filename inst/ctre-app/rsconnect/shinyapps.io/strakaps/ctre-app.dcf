@@ -1,0 +1,12 @@
+name: ctre-app
+title: ctre-app
+username:
+account: strakaps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 329021
+bundleId: 1337533
+url: https://strakaps.shinyapps.io/ctre-app/
+when: 1524626821.9379
+asMultiple: FALSE
+asStatic: FALSE
